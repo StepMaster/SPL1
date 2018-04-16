@@ -8,3 +8,7 @@
 * playing Drums
 * soccer player
 * gaming
+
+## Programming Skills
+* Java
+* HTML
